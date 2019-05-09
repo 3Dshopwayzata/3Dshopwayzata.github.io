@@ -1777,7 +1777,32 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rpWfHnNnT9 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #0f7699;
+}
+.cid-rpWvDGk0OX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rpWvDGk0OX h3 {
+  text-align: center;
+}
+.cid-rpWvDGk0OX .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rpWvDGk0OX .mbr-content-text {
+  color: #767676;
+}
+.cid-rpWvDGk0OX .panel-item {
+  background: #ffffff;
+}
+.cid-rpWvDGk0OX .card {
+  word-wrap: break-word;
+}
+.cid-rpWvDGk0OX .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rpWeU0g76v .navbar {
   padding: .5rem 0;
